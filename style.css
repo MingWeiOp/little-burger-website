@@ -1,0 +1,6 @@
+.underline {
+    text-decoration: underline dotted;
+}
+html {
+    scroll-behavior: smooth;
+}
